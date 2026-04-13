@@ -1,2 +1,3 @@
-# tutorials
-Code hub for technical articles and tutorials
+# Tutorials
+
+A code hub for technical articles and tutorials.
